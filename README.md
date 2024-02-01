@@ -1,4 +1,6 @@
 # flutter_application_1
+![S1](https://github.com/Salboicode/flutter_application_1/assets/136092854/fc225d34-850a-4320-8db7-2b5eacaf784f)
+![S2](https://github.com/Salboicode/flutter_application_1/assets/136092854/ffbde5d8-05ad-45ba-803b-c772ef896d40)
 
 A new Flutter project.
 
